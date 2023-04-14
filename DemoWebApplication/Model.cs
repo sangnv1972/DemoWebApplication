@@ -6,6 +6,7 @@
 public class Class1
 {
 	private int id;
+	private string name;
 	public Class1()
 	{
 		//
