@@ -5,6 +5,7 @@
 /// </summary>
 public class Class1
 {
+	private int id;
 	public Class1()
 	{
 		//
